@@ -3,7 +3,7 @@ require './lib/rubysl/net/smtp/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rubysl-net-smtp"
-  spec.version       = RubySL::Net::Smtp::VERSION
+  spec.version       = RubySL::Net::SMTP::VERSION
   spec.authors       = ["Brian Shirai"]
   spec.email         = ["brixen@gmail.com"]
   spec.description   = %q{Ruby standard library smtp.}

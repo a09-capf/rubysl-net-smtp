@@ -1,6 +1,6 @@
 module RubySL
   module Net
-    module Smtp
+    module SMTP
       VERSION = "0.0.1"
     end
   end
